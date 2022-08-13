@@ -1,6 +1,6 @@
 # Relay Engineering
 
-Relay is the Web3 messaging application platform. Private, non-custodial, end-to-end-encrypted messaging powered by the [XMTP Protocol](https://xmtp.com).
+[Relay](https://try.relay.cc) is the Web3 messaging application platform. Private, non-custodial, end-to-end-encrypted messaging powered by the [XMTP Protocol](https://xmtp.com).
 
 # Get Involved
 
