@@ -1,22 +1,28 @@
-# Relay Engineering
-
-[Relay](https://try.relay.cc) is the Web3 messaging application platform. Private, non-custodial, end-to-end-encrypted messaging powered by the [XMTP Protocol](https://xmtp.com). Relay Receiver is a site inbox for any React website to add for their user-wallets, to let them communicate, trade, and connect. 
-
-# Useful Resources
-
-* [Relay Site](https://try.relay.cc)
-* [Relay App](https://relay.cc)
-* [Platform Docs](https://docs.relay.cc)
-* [Toolkit](https://github.com/relaycc/toolkit)
-
 # About Relay
 
-Relay was founded with the purpose of solving problems in DAO membership and debate, from seeing first-hand the issues of coordinating web3 while relying on centralized web2 messengers and identity.
+[Relay](https://relay.cc) is the Web3 messenger: private, end-to-end-encrypted messaging for your decentralized, self-sovereign identity.
 
-The team was working to fix this problem by inventing a wallet messenger in the Elixir language, then very happily the beta release of XMTP in April solved many of the web3 communication needs.
+Check out what we've built 🚀:
 
-Relay’s goal is to provide open-source tools and products on top of XMTP, and create the best place for web3 identities to share, transact, and communicate. Today, use your wallet to chat with friends, groups, or anons now at relay.cc, and Receiver is coming soon to bring XMTP messaging to all your favorite web3 sites.
+* [Relay App](https://relay.cc)
+* [Relay Receiver](https://demo.relay.cc)
 
-# Get Involved
+# Come Say Hi 👋
 
-Our Issues and Pull Requests are active, and we invite any community members to add their own integrations or site-specific functionality into the chat. An example would be adding Seaport order confirmation, or Uniswap Swap widget. Please join our Discord and discuss.  
+* [Twitter](https://twitter.com/relay_eth)
+* [Blog](https://mirror.xyz/relaycc.eth)
+* [Discord](https://discord.gg/DTMKf63ZSf)
+
+# Relay ❤️ FOSS
+
+* [App](https://github.com/relaycc/relay)
+* [Receiver](https://github.com/relaycc/receiver)
+* [XMTP for React](https://github.com/relaycc/xmtp-hooks)
+* [Lens for React (coming soon)]()
+
+All of our projects are open and active, and we love community contributions. To get started, see your favorite project's contributor guide ([for example](https://github.com/relaycc/receiver/.github/CONTRIBUTING.md)). We've also integrated with [gitpoap](https://www.gitpoap.io/gp/736) to add some extra 🔥 to Relay contributions.
+
+
+# Join the Team 🤝
+
+If you'd like to get even more involved, [we're hiring](https://jobs.lever.co/relay) 🎉.
