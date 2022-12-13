@@ -20,7 +20,7 @@ Check out what we've built 🚀:
 * [XMTP for React](https://github.com/relaycc/xmtp-hooks)
 * [Lens for React (coming soon)]()
 
-All of our projects are open and active, and we love community contributions. To get started, see your favorite project's contributor guide ([for example](https://github.com/relaycc/receiver/.github/CONTRIBUTING.md)). We've also integrated with [gitpoap](https://gitpoap.io) to add some extra 🔥 to Relay contributions.
+All of our projects are open and active, and we love community contributions. To get started, see your favorite project's contributor guide ([for example](https://github.com/relaycc/receiver/.github/CONTRIBUTING.md)). We've also integrated with [gitpoap](https://www.gitpoap.io/gp/736) to add some extra 🔥 to Relay contributions.
 
 
 # Join the Team 🤝
