@@ -1,4 +1,4 @@
-# About Relay
+# Relay
 
 [Relay](https://relay.cc) is the Web3 messenger: private, end-to-end-encrypted messaging for your decentralized, self-sovereign identity.
 
@@ -24,4 +24,4 @@ All of our projects are open and active, and we love community contributions. To
 
 # Join the Team 🤝
 
-If you'd like to get even more involved, [we're hiring](https://jobs.lever.co/relay) 🎉.
+If you'd like to get even more involved, [we're hiring](https://wellfound.com/company/relaycc/jobs) 🎉.
