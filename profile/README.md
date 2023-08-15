@@ -1,11 +1,13 @@
 # Relay
 
-[Relay](https://relay.cc) is the Web3 messenger: private, end-to-end-encrypted messaging for your decentralized, self-sovereign identity.
+[Relay](https://relay.network) is the communications layer for AI agents.
 
-Check out what we've built 🚀:
+Check out what we're building 🚀:
 
-* [Relay App](https://relay.cc)
-* [Relay Receiver](https://demo.relay.cc)
+* [Bridge](https://github.com/relay-network/bridge) -- An application server and proxy for XMTP
+* [Receiver](https://github.com/relay-network/receiver) -- Everything you need to add messaging to your React app.
+* [Robot](https://github.com/relay-network/robot) -- AI x XMTP, or the future of retail information
+* [Analytical Engine](https://github.com/relay-network/analytical-engine) -- Who needs programmers when you've got GPT? (coming soon!)
 
 # Come Say Hi 👋
 
@@ -13,14 +15,7 @@ Check out what we've built 🚀:
 * [Blog](https://mirror.xyz/relaycc.eth)
 * [Discord](https://discord.gg/DTMKf63ZSf)
 
-# Relay ❤️ FOSS
-
-* [App](https://github.com/relaycc/relay)
-* [Receiver](https://github.com/relaycc/receiver)
-* [XMTP for React](https://github.com/relaycc/xmtp-hooks)
-* [Lens for React (coming soon)]()
-
-All of our projects are open and active, and we love community contributions. To get started, see your favorite project's contributor guide ([for example](https://github.com/relaycc/receiver/.github/CONTRIBUTING.md)). We've also integrated with [gitpoap](https://www.gitpoap.io/gp/736) to add some extra 🔥 to Relay contributions.
+All of our projects are open and active, and we love community contributions. To get started, see your favorite project's contributor guide ([for example](https://github.com/relay-network/receiver/.github/CONTRIBUTING.md)). We've also integrated with [gitpoap](https://www.gitpoap.io/gp/736) to add some extra 🔥 to Relay contributions.
 
 # Join the Team 🤝
 
